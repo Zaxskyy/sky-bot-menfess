@@ -8,7 +8,7 @@
 [`railway.app`](https://railway.app/new/github)
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyGemuy/Hinata)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fourzyxd/sky)
 
 Edit the required value in [`config.js`](https://github.com/AyGemuy/Hinata/blob/master/config.js)
 
